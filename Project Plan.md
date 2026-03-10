@@ -1,6 +1,6 @@
-Project Plan: Olympic Performance Analysis
+# Project Plan: Olympic Performance Analysis
 
-Overview
+## Overview
 
 The Olympic Games are one of the most historically significant sporting institutions in the world, with origins tracing back thousands of years. Athletes from countries across the globe compete to represent their nations at the highest level of international sport. The International Olympic Committee (IOC) emphasizes fairness, global representation, and competitive integrity. However, patterns in historical Olympic results suggest that certain structural factors may influence outcomes beyond pure athletic performance. Our project aims to investigate whether such factors exist and whether they can be observed statistically in Olympic data.
 
@@ -10,47 +10,49 @@ To accomplish this, we will collect Olympic athlete and medal data through autom
 
 The ultimate goal of the project is to produce a reproducible analytical workflow that evaluates whether systemic patterns—such as host advantages or unusually large performance swings—exist within Olympic history. These findings may provide insight into the fairness and structural dynamics of Olympic competition.
 
-Team
+## Team
+
+### Responsibility
 
 Both members of the team will collaborate closely throughout the project. Responsibilities are divided to ensure that all components of the project are completed while maintaining strong communication and accountability.
 
-Nicholas R
+#### Nicholas R
 
-Assist in designing the database structure
+- Assist in designing the database structure
 
-Develop and test web scraping scripts
+- Develop and test web scraping scripts
 
-Perform exploratory data analysis and statistical evaluation
+- Perform exploratory data analysis and statistical evaluation
 
-Contribute to documentation and the final written report
+- Contribute to documentation and the final written report
 
-Participate in code reviews and collaborative problem solving
+- Participate in code reviews and collaborative problem solving
 
-Rama V
+#### Rama Rao V
 
-Assist with web scraping development and data collection
+- Assist with web scraping development and data collection
 
-Implement data cleaning and transformation procedures
+- Implement data cleaning and transformation procedures
 
-Support database setup and maintenance
+- Support database setup and maintenance
 
-Conduct data analysis and visualization
+- Conduct data analysis and visualization
 
-Contribute to documentation and the final written report
+- Contribute to documentation and the final written report
 
-Shared Responsibilities
+#### Shared Responsibilities
 
-Communication and project coordination
+- Communication and project coordination
 
-Coding and debugging data pipelines
+- Coding and debugging data pipelines
 
-Data analysis and interpretation
+- Data analysis and interpretation
 
-Timeline accountability and milestone completion
+- Timeline accountability and milestone completion
 
-Writing the final project report
+- Writing the final project report
 
-Research Questions
+## Research Questions
 
 This project aims to answer several analytical questions about Olympic performance patterns. These include:
 
@@ -72,11 +74,11 @@ By analyzing historical results, we will identify countries whose performance fl
 
 These questions are well suited for quantitative analysis using historical Olympic performance data and allow us to explore fairness and systemic influences within the Olympic Games.
 
-Datasets
+## Datasets
 
 Our project will integrate multiple datasets that provide complementary information about Olympic participation and performance.
 
-Dataset 1: IOC Olympic Results Data
+### Dataset 1: IOC Olympic Results Data
 
 The primary dataset will contain historical Olympic results, including athlete participation, event results, and medal outcomes. This dataset includes attributes such as:
 
@@ -94,7 +96,7 @@ Olympic season (Summer or Winter)
 
 This dataset will allow us to calculate country-level performance metrics across Olympic Games.
 
-Dataset 2: Olympic Host Country Data
+### Dataset 2: Olympic Host Country Data
 
 The second dataset will contain information about Olympic host cities and host countries. Relevant attributes include:
 
@@ -108,7 +110,7 @@ Olympic season (Summer/Winter)
 
 This dataset allows us to identify which countries hosted each Olympic Games and link this information to the performance dataset.
 
-Dataset Integration
+### Dataset Integration
 
 These datasets can be integrated using shared identifiers such as:
 
@@ -122,81 +124,81 @@ By joining the datasets on these attributes, we can determine when a country was
 
 We intentionally avoid using datasets from Kaggle due to concerns regarding licensing, provenance, and reproducibility. Instead, we will prioritize datasets from official Olympic sources or reputable archival datasets.
 
-Timeline
+## Timeline
 
 The project will follow a structured timeline to ensure steady progress toward the final deliverable.
 
-By Mid–March
+#### By Mid–March
 
 Task: Identify and verify datasets
 
-Confirm reliable data sources
+- Confirm reliable data sources
 
-Review dataset formats and attributes
+- Review dataset formats and attributes
 
-Responsible: Both team members
+- Responsible: Both team members
 
 Task: Design database schema
 
-Define tables for athletes, events, countries, and host information
+- Define tables for athletes, events, countries, and host information
 
-Responsible: Both team members
+- Responsible: Both team members
 
-By End of March
+#### By End of March
 
 Task: Implement web scraping pipeline
 
-Develop automated scripts to collect Olympic data
+- Develop automated scripts to collect Olympic data
 
-Test scraping reliability and store results in database
+- Test scraping reliability and store results in database
 
-Responsible: Both team members
+- Responsible: Both team members
 
 Task: Initial data cleaning and integration
 
-Standardize country codes
+- Standardize country codes
 
-Merge datasets using shared attributes
+- Merge datasets using shared attributes
 
-Responsible: Both team members
+- Responsible: Both team members
 
-Milestone: March 31 – Interim Report
+### Milestone: March 31 – Interim Report
 
-Early April
+#### Early April
 
 Task: Perform exploratory data analysis
 
-Calculate medal counts by country and year
+- Calculate medal counts by country and year
 
-Identify performance distributions
+- Identify performance distributions
 
-Responsible: Both team members
+- Responsible: Both team members
 
-Late April
+#### Late April
 
 Task: Statistical analysis and visualization
 
-Identify performance outliers
+- Identify performance outliers
 
-Measure variance in country performance
+- Measure variance in country performance
 
-Test for host country advantage
+- Test for host country advantage
 
-Responsible: Both team members
+- Responsible: Both team members
 
 Task: Draft written report and prepare visualizations
 
-Responsible: Both team members
+- Responsible: Both team members
 
-End of April
+#### End of April
 
 Task: Finalize written report and code repository
 
-Responsible: Both team members
+- Responsible: Both team members
 
-Deadline: May 3 – Final Project Submission
+### Deadline: May 3 – Final Project Submission
 
-Constraints
+## Constraints
 
 Several challenges may affect this project.
 
@@ -208,7 +210,7 @@ Third, web scraping may encounter technical limitations such as rate limits or c
 
 Finally, Olympic performance is influenced by many factors such as population size, national funding for sports, and athlete development systems. While our analysis can identify statistical patterns, it cannot fully account for all underlying causal mechanisms.
 
-Gaps
+## Gaps
 
 At the current stage of planning, several gaps remain.
 
