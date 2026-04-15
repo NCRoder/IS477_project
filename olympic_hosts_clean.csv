@@ -1,0 +1,75 @@
+year,city,country,season,games_label,is_cancelled,num_hosts
+1896,Athens,Greece,Summer,Athens 1896,False,1
+1896,Athens,Greece,Winter,Athens 1896,False,1
+1900,Paris,France,Summer,Paris 1900,False,1
+1900,Paris,France,Winter,Paris 1900,False,1
+1904,St. Louis,United States,Summer,St. Louis 1904,False,1
+1908,London,United Kingdom,Summer,London 1908,False,1
+1908,3,London,Winter,3 1908,False,1
+1912,Stockholm,Sweden,Summer,Stockholm 1912,False,1
+1916,†,Berlin,Summer,† 1916,True,1
+1920,Antwerp,Belgium,Summer,Antwerp 1920,False,1
+1924,Chamonix,France,Summer,Chamonix 1924,False,1
+1924,Paris,S008 VIII,Summer,Paris 1924,False,1
+1928,St. Moritz,Switzerland,Summer,St. Moritz 1928,False,1
+1928,Amsterdam,Netherlands,Summer,Amsterdam 1928,False,1
+1928,St. Moritz,Switzerland,Winter,St. Moritz 1928,False,1
+1932,Lake Placid,United States,Summer,Lake Placid 1932,False,1
+1932,Los Angeles,S010 X,Summer,Los Angeles 1932,False,1
+1932,Los Angeles,United States,Winter,Los Angeles 1932,False,1
+1932,Lake Placid,United States,Winter,Lake Placid 1932,False,1
+1936,Garmisch;Partenkirchen,Germany,Summer,Garmisch;Partenkirchen 1936,False,2
+1936,Berlin,S011 XI,Summer,Berlin 1936,False,1
+1940,†,Sapporo Garmisch-Partenkirchen,Summer,† 1940,True,1
+1944,†,Cortina d'Ampezzo,Summer,† 1944,False,1
+1948,St. Moritz,Switzerland,Summer,St. Moritz 1948,False,1
+1948,London,United Kingdom,Summer,London 1948,False,1
+1952,Oslo,Norway,Summer,Oslo 1952,False,1
+1952,Helsinki,Finland,Summer,Helsinki 1952,False,1
+1956,Cortina d'Ampezzo,Italy,Summer,Cortina d'Ampezzo 1956,False,1
+1956,Melbourne Stockholm,Australia Sweden,Summer,Melbourne Stockholm 1956,False,1
+1956,Cortina d'Ampezzo,Italy,Winter,Cortina d'Ampezzo 1956,False,1
+1960,Squaw Valley,United States,Summer,Squaw Valley 1960,False,1
+1960,Rome,Italy,Summer,Rome 1960,False,1
+1964,Innsbruck,Austria,Summer,Innsbruck 1964,False,1
+1964,Tokyo,Japan,Summer,Tokyo 1964,False,1
+1964,Innsbruck,Austria,Winter,Innsbruck 1964,False,1
+1964,Tokyo,Japan,Winter,Tokyo 1964,False,1
+1968,Grenoble,France,Summer,Grenoble 1968,False,1
+1968,Mexico City,Mexico,Summer,Mexico City 1968,False,1
+1972,Sapporo,Japan,Summer,Sapporo 1972,False,1
+1972,Munich,West Germany,Summer,Munich 1972,False,1
+1976,Innsbruck,Austria,Summer,Innsbruck 1976,False,1
+1976,Montreal,Canada,Summer,Montreal 1976,False,1
+1980,Lake Placid,United States,Summer,Lake Placid 1980,False,1
+1980,Moscow,Soviet Union,Summer,Moscow 1980,False,1
+1984,Sarajevo,Yugoslavia,Summer,Sarajevo 1984,False,1
+1984,Los Angeles,United States,Summer,Los Angeles 1984,False,1
+1988,Calgary,Canada,Summer,Calgary 1988,False,1
+1988,Seoul,South Korea,Summer,Seoul 1988,False,1
+1992,Albertville,France,Summer,Albertville 1992,False,1
+1992,Barcelona,Spain,Summer,Barcelona 1992,False,1
+1992,2,Albertville,Winter,2 1992,False,1
+1994,Lillehammer,Norway,Summer,Lillehammer 1994,False,1
+1996,Atlanta,United States,Summer,Atlanta 1996,False,1
+1998,Nagano,Japan,Summer,Nagano 1998,False,1
+2000,Sydney,Australia,Summer,Sydney 2000,False,1
+2002,Salt Lake City,United States,Summer,Salt Lake City 2002,False,1
+2002,Salt Lake City,,Winter,Salt Lake City 2002,False,1
+2004,Athens,Greece,Summer,Athens 2004,False,1
+2006,Turin,Italy,Summer,Turin 2006,False,1
+2008,Beijing,China,Summer,Beijing 2008,False,1
+2008,Beijing,China,Winter,Beijing 2008,False,1
+2010,Vancouver,Canada,Summer,Vancouver 2010,False,1
+2012,London,United Kingdom,Summer,London 2012,False,1
+2014,Sochi,Russia,Summer,Sochi 2014,False,1
+2016,Rio de Janeiro,Brazil,Summer,Rio de Janeiro 2016,False,1
+2018,Pyeongchang,South Korea,Summer,Pyeongchang 2018,False,1
+2020,§,Tokyo,Summer,§ 2020,False,1
+2022,Beijing,China,Summer,Beijing 2022,False,1
+2024,Paris,France,Summer,Paris 2024,False,1
+2026,Milan Cortina d'Ampezzo,Italy,Summer,Milan Cortina d'Ampezzo 2026,False,1
+2028,Los Angeles,United States,Summer,Los Angeles 2028,False,1
+2030,French Alps,France,Summer,French Alps 2030,False,1
+2032,Brisbane,Australia,Summer,Brisbane 2032,False,1
+2034,Salt Lake City,United States,Summer,Salt Lake City 2034,False,1
